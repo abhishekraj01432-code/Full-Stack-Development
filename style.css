@@ -1,0 +1,16 @@
+h1{
+    color: blue;
+    border: 2px;
+    font-size: medium;
+    font-style: italic;
+    background-color: aqua;
+}
+
+h2{
+     color: red;
+    border: 3px;
+    font-size: medium;
+    font-style: italic;
+    background-color: aqua;
+
+}
