@@ -1,16 +1,48 @@
+html{
+    font-family: 'Times New Roman', Times, serif, sans-serif;
+}
+body{
+    background-color: yellow;
+}
+
 h1{
-    color: blue;
-    border: 2px;
-    font-size: medium;
-    font-style: italic;
-    background-color: aqua;
+    color: #ffffff;
+    text-shadow: 2px 2px 5px black;
+    text-align: center;
+    font-size: 30px;
 }
 
 h2{
-     color: red;
-    border: 3px;
-    font-size: medium;
-    font-style: italic;
-    background-color: aqua;
+    color: rgb(0, 204, 255);
+    text-shadow: 1px 1px 3px darkblue;
+}
+.borderImg{
+    border: 10px dashed red;
+}
 
+ul li {
+        color: blue;
+        font-size: 20px;
+}
+
+ul > li{
+    color: red;
+}
+
+ol > li {
+    color: green;
+}
+
+a{
+   text-decoration: none;
+   font-size: 30px;
+   color: blue;
+   word-spacing: 5px;
+   text-transform: uppercase;
+}
+
+.formatting{
+    color: tomato;
+    font-size: 20px;
+    line-height: 2em;
 }
