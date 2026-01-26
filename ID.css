@@ -1,0 +1,37 @@
+body {
+    background-color: aqua;
+}
+
+h1{
+    text-align: center;
+    color: red;
+ text-shadow: 2px 2px 5px white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+h2{
+    text-align: left;
+    color: red;
+    text-shadow: 2px 2px 5px white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: xx-large;
+}
+
+.square {
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+    margin: auto;
+}
+p{
+    text-align: center;
+    color: red;
+    border-radius: 5px;
+    text-shadow: 10px;
+}
+
+#circle{
+    color: darkred;
+    font-size: 40px;
+}
